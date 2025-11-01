@@ -6,7 +6,7 @@
 | Loan Approval Prediction         | ML model for automated loan approval              | Python, ML, Sklearn |  🔗  |
 | Credit Card Default Prediction   | Classification model to predict defaults          | Python, ML, EDA     |  [🔗](https://github.com/desai-vikrant/Default_Analysis-Analyzing_credit_card_Default_Payments)  |
 | Customer Churn Prediction        | Identified churn drivers & built predictive model | Python, ML, SHAP    |  🔗  |
-| Wine Quality Prediction          | Regression model to predict wine rating           | Python, ML          |  🔗  |
+| Wine Quality Prediction          | Regression model to predict wine rating           | Python, ML          |  [🔗](https://github.com/desai-vikrant/Wine-Quality-Prediction-Red-White-Wine-)  |
 | Car Rental System                | Command-line system with Python & file handling   | Python, OOP         |  [🔗](https://github.com/desai-vikrant/car_rental_systems)  |
 | SQL + Python Music Data          | Data analysis + SQL integration                   | Python, MySQL       |  [🔗](https://github.com/desai-vikrant/SQL-Python-Integration-MusicDB)  |
 | CRUD in MySQL                    | Full CRUD using Python                            | Python, MySQL       |  [🔗](https://github.com/desai-vikrant/CRUD-Operations-on-MySQL-Database-using-Python)  |
