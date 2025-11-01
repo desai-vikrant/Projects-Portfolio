@@ -7,7 +7,7 @@
 | Credit Card Default Prediction   | Classification model to predict defaults          | Python, ML, EDA     |  [🔗](https://github.com/desai-vikrant/Default_Analysis-Analyzing_credit_card_Default_Payments)  |
 | Customer Churn Prediction        | Identified churn drivers & built predictive model | Python, ML, SHAP    |  🔗  |
 | Wine Quality Prediction          | Regression model to predict wine rating           | Python, ML          |  🔗  |
-| Car Rental System                | Command-line system with Python & file handling   | Python, OOP         |  🔗  |
+| Car Rental System                | Command-line system with Python & file handling   | Python, OOP         |  [🔗](https://github.com/desai-vikrant/car_rental_systems)  |
 | SQL + Python Music Data          | Data analysis + SQL integration                   | Python, MySQL       |  [🔗](https://github.com/desai-vikrant/SQL-Python-Integration-MusicDB)  |
 | CRUD in MySQL                    | Full CRUD using Python                            | Python, MySQL       |  [🔗](https://github.com/desai-vikrant/CRUD-Operations-on-MySQL-Database-using-Python)  |
 | Command-line Analytics Tool      | CLI tool for data exploration                     | Python              |  [🔗](https://github.com/desai-vikrant/Command-Line-Data-Analytics-Tool-)  |
