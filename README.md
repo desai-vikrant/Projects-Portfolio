@@ -11,6 +11,12 @@ Pune, Maharashtra, India
 Passionate data professional with a strong foundation in Statistics, Machine Learning, Deep Learning, and Data Engineering concepts. Experienced in developing end-to-end ML workflows, data preprocessing, exploratory data analysis, predictive modeling, and data visualization.
 Currently working on advanced analytics projects and continuously expanding skills in real-world data applications, particularly in finance, risk analysis, and business intelligence.
 
+**Education**
+
+M.Sc. in Applied Statistics — Completed in 2025
+
+Data Science & Analytics Certification — E&ICT Academy, IIT Guwahati (2025)
+
 **Skills & Tools:**
 
 Python | R | SQL | Power BI | SPSS | Minitab | Excel | Machine Learning | Deep Learning | Statistics | Data Visualization | Predictive Modeling | Data Cleaning | Data Wrangling | ETL | EDA
