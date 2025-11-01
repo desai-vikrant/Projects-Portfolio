@@ -11,7 +11,7 @@
 | SQL + Python Music Data          | Data analysis + SQL integration                   | Python, MySQL       |  [🔗](https://github.com/desai-vikrant/SQL-Python-Integration-MusicDB)  |
 | CRUD in MySQL                    | Full CRUD using Python                            | Python, MySQL       |  [🔗](https://github.com/desai-vikrant/CRUD-Operations-on-MySQL-Database-using-Python)  |
 | Command-line Analytics Tool      | CLI tool for data exploration                     | Python              |  [🔗](https://github.com/desai-vikrant/Command-Line-Data-Analytics-Tool-)  |
-| Superstore Analysis              | BI & insights from retail data                    | Excel / Python      |  🔗  |
+| Superstore Analysis              | BI & insights from retail data                    | Excel / Python      |  [🔗](https://github.com/desai-vikrant/EDA-on-Superstore-Sales-Data)  |
 | Blinkit Dashboard                | Sales analytics dashboard                         | PowerBI             |  [🔗](https://github.com/desai-vikrant/desai-vikrant-blinkit-sales-dashboard)  |
 
 
