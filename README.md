@@ -14,6 +14,7 @@ Currently working on advanced analytics projects and continuously expanding skil
 **Education**
 
 M.Sc. in Applied Statistics — Completed in 2025
+
 Data Science & Analytics Certification — E&ICT Academy, IIT Guwahati (2025)
 
 **Skills & Tools:**
