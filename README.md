@@ -6,14 +6,16 @@ Aspiring **Data Analyst / Data Scientist / Data Engineer / Data Specialist**
 
 Pune, Maharashtra, India
 
-**About Me** :
+**About Me:**
+
 Passionate data professional with a strong foundation in Statistics, Machine Learning, Deep Learning, and Data Engineering concepts. Experienced in developing end-to-end ML workflows, data preprocessing, exploratory data analysis, predictive modeling, and data visualization.
 Currently working on advanced analytics projects and continuously expanding skills in real-world data applications, particularly in finance, risk analysis, and business intelligence.
 
-**Skills & Tools**
+**Skills & Tools:**
+
 Python | R | SQL | Power BI | SPSS | Minitab | Excel | Machine Learning | Deep Learning | Statistics | Data Visualization | Predictive Modeling | Data Cleaning | Data Wrangling | ETL | EDA
 
-# Projects-Portfolio
+**Projects-Portfolio**
 
 |             Project              |                      Description                  |       Tools         | Link |
 |----------------------------------|---------------------------------------------------|---------------------|------|
