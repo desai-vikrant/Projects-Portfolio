@@ -15,6 +15,8 @@ Currently working on advanced analytics projects and continuously expanding skil
 
 Python | R | SQL | Power BI | SPSS | Minitab | Excel | Machine Learning | Deep Learning | Statistics | Data Visualization | Predictive Modeling | Data Cleaning | Data Wrangling | ETL | EDA
 
+
+
 **Projects-Portfolio**
 
 |             Project              |                      Description                  |       Tools         | Link |
