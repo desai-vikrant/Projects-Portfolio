@@ -3,7 +3,7 @@
 
 |             Project              |                      Description                  |       Tools         | Link |
 |----------------------------------|---------------------------------------------------|---------------------|------|
-| Loan Approval Prediction         | ML model for automated loan approval              | Python, ML, Sklearn |  🔗  |
+| Loan Approval Prediction         | ML model for automated loan approval              | Python, ML, Sklearn |  [🔗](https://github.com/desai-vikrant/Loan-Approval-)  |
 | Credit Card Default Prediction   | Classification model to predict defaults          | Python, ML, EDA     |  [🔗](https://github.com/desai-vikrant/Default_Analysis-Analyzing_credit_card_Default_Payments)  |
 | Customer Churn Prediction        | Identified churn drivers & built predictive model | Python, ML, SHAP    |  [🔗](https://github.com/desai-vikrant/Bank-Customer-Churn-Prediction-)  |
 | Wine Quality Prediction          | Regression model to predict wine rating           | Python, ML          |  [🔗](https://github.com/desai-vikrant/Wine-Quality-Prediction-Red-White-Wine-)  |
