@@ -37,7 +37,7 @@ Python | R | SQL | Power BI | SPSS | Minitab | Excel | Machine Learning | Deep L
 | Command-line Analytics Tool             | CLI tool for data exploration                       | Python               | [🔗](https://github.com/desai-vikrant/Command-Line-Data-Analytics-Tool-) |
 | Superstore Analysis                     | BI & insights from retail data                      | Excel / Python       | [🔗](https://github.com/desai-vikrant/EDA-on-Superstore-Sales-Data) |
 | Blinkit Dashboard                       | Sales analytics dashboard                           | Excel                | [🔗](https://github.com/desai-vikrant/desai-vikrant-blinkit-sales-dashboard) |
-| D-Mart Sales Report                     | Retail sales insights & trends                      | Excel / BI           | [🔗](https://github.com/desai-vikrant/D-Mart-Sales-Report) |
+| D-Mart Sales Report                     | Retail sales insights & trends                      | Power BI             | [🔗](https://github.com/desai-vikrant/D-Mart-Sales-Report) |
 | Global Music Insights Dashboard         | Music catalog & revenue analytics                   | Power BI             | [🔗](https://github.com/desai-vikrant/Global-Music-Insights-Dashboard) |
 | Insurance Analysis Dashboard            | Policy, claim & customer analysis                   | Power BI             | [🔗](https://github.com/desai-vikrant/Insurance-Analysis-Dashboard) |
 | HR Analysis Report                      | Workforce, attendance & salary analytics            | Power BI             | [🔗](https://github.com/desai-vikrant/HR-Analysis-Report) |
