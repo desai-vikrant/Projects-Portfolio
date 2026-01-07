@@ -19,26 +19,26 @@ Data Science & Analytics Certification — E&ICT Academy, IIT Guwahati (2025)
 
 **Skills & Tools:**
 
-Python | R | SQL | Power BI | SPSS | Minitab | Excel | Machine Learning | Deep Learning | Statistics | Data Visualization | Predictive Modeling | Data Cleaning | Data Wrangling | ETL | EDA
+Python | R | SQL | Power BI | SPSS | Minitab | Excel | Machine Learning | NLP | Deep Learning | Statistics | Data Visualization | Predictive Modeling | Data Cleaning | Data Wrangling | ETL | EDA
 
 
 
 **Projects-Portfolio**
 
-|             Project                     | Description                                         | Tools                | Link |
-|-----------------------------------------|-----------------------------------------------------|----------------------|------|
-| Loan Approval Prediction                | ML model for automated loan approval                | Python, ML, Excel    | [🔗](https://github.com/desai-vikrant/Loan-Approval-) |
-| Credit Card Default Prediction          | Classification model to predict defaults            | Python, ML, Excel    | [🔗](https://github.com/desai-vikrant/Default_Analysis-Analyzing_credit_card_Default_Payments) |
-| Customer Churn Prediction               | Identified churn drivers & built predictive model   | Python, ML, Excel    | [🔗](https://github.com/desai-vikrant/Bank-Customer-Churn-Prediction-) |
-| Wine Quality Prediction                 | Regression model to predict wine rating             | Python, ML, Excel    | [🔗](https://github.com/desai-vikrant/Wine-Quality-Prediction-Red-White-Wine-) |
-| Car Rental System                       | Command-line system with Python & file handling     | Python               | [🔗](https://github.com/desai-vikrant/car_rental_systems) |
-| SQL + Python Music Data                 | Data analysis + SQL integration                     | Python, MySQL        | [🔗](https://github.com/desai-vikrant/SQL-Python-Integration-MusicDB) |
-| CRUD in MySQL                           | Full CRUD using Python                              | Python, MySQL        | [🔗](https://github.com/desai-vikrant/CRUD-Operations-on-MySQL-Database-using-Python) |
-| Command-line Analytics Tool             | CLI tool for data exploration                       | Python               | [🔗](https://github.com/desai-vikrant/Command-Line-Data-Analytics-Tool-) |
-| Superstore Analysis                     | BI & insights from retail data                      | Excel / Python       | [🔗](https://github.com/desai-vikrant/EDA-on-Superstore-Sales-Data) |
-| Blinkit Dashboard                       | Sales analytics dashboard                           | Excel                | [🔗](https://github.com/desai-vikrant/desai-vikrant-blinkit-sales-dashboard) |
-| D-Mart Sales Report                     | Retail sales insights & trends                      | Power BI             | [🔗](https://github.com/desai-vikrant/D-Mart-Sales-Report) |
-| Global Music Insights Dashboard         | Music catalog & revenue analytics                   | Power BI             | [🔗](https://github.com/desai-vikrant/Global-Music-Insights-Dashboard) |
-| Insurance Analysis Dashboard            | Policy, claim & customer analysis                   | Power BI             | [🔗](https://github.com/desai-vikrant/Insurance-Analysis-Dashboard) |
-| HR Analysis Report                      | Workforce, attendance & salary analytics            | Power BI             | [🔗](https://github.com/desai-vikrant/HR-Analysis-Report) |
-
+| Project                                        | Description                                                                                                    | Tools                                  | Link                                                                                           |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Loan Approval Prediction                       | ML model for automated loan approval                                                                           | Python, ML, Excel                      | [🔗](https://github.com/desai-vikrant/Loan-Approval-)                                          |
+| Credit Card Default Prediction                 | Classification model to predict defaults                                                                       | Python, ML, Excel                      | [🔗](https://github.com/desai-vikrant/Default_Analysis-Analyzing_credit_card_Default_Payments) |
+| Customer Churn Prediction                      | Identified churn drivers & built predictive model                                                              | Python, ML, Excel                      | [🔗](https://github.com/desai-vikrant/Bank-Customer-Churn-Prediction-)                         |
+| Wine Quality Prediction                        | Regression model to predict wine rating                                                                        | Python, ML, Excel                      | [🔗](https://github.com/desai-vikrant/Wine-Quality-Prediction-Red-White-Wine-)                 |
+| Car Rental System                              | Command-line system with Python & file handling                                                                | Python                                 | [🔗](https://github.com/desai-vikrant/car_rental_systems)                                      |
+| SQL + Python Music Data                        | Data analysis + SQL integration                                                                                | Python, MySQL                          | [🔗](https://github.com/desai-vikrant/SQL-Python-Integration-MusicDB)                          |
+| CRUD in MySQL                                  | Full CRUD using Python                                                                                         | Python, MySQL                          | [🔗](https://github.com/desai-vikrant/CRUD-Operations-on-MySQL-Database-using-Python)          |
+| Command-line Analytics Tool                    | CLI tool for data exploration                                                                                  | Python                                 | [🔗](https://github.com/desai-vikrant/Command-Line-Data-Analytics-Tool-)                       |
+| Superstore Analysis                            | BI & insights from retail data                                                                                 | Excel, Python                          | [🔗](https://github.com/desai-vikrant/EDA-on-Superstore-Sales-Data)                            |
+| Blinkit Dashboard                              | Sales analytics dashboard                                                                                      | Excel                                  | [🔗](https://github.com/desai-vikrant/desai-vikrant-blinkit-sales-dashboard)                   |
+| D-Mart Sales Report                            | Retail sales insights & trends                                                                                 | Power BI                               | [🔗](https://github.com/desai-vikrant/D-Mart-Sales-Report)                                     |
+| Global Music Insights Dashboard                | Music catalog & revenue analytics                                                                              | Power BI                               | [🔗](https://github.com/desai-vikrant/Global-Music-Insights-Dashboard)                         |
+| Insurance Analysis Dashboard                   | Policy, claim & customer analysis                                                                              | Power BI                               | [🔗](https://github.com/desai-vikrant/Insurance-Analysis-Dashboard)                            |
+| HR Analysis Report                             | Workforce, attendance & salary analytics                                                                       | Power BI                               | [🔗](https://github.com/desai-vikrant/HR-Analysis-Report)                                      |
+| AI Twitter Customer Support Classification | NLP & deep learning model to classify inbound customer support tweets; GRU selected and deployed via Streamlit | Python, NLP, DL, TensorFlow, Streamlit | [🔗](https://github.com/desai-vikrant/Twitter-Customer-Support-AI-Classification)              |
